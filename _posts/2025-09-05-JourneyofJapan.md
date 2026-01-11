@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "日本游记"
-date:   2024-09-05 12:08:31
+date:   2025-09-05 12:08:31
 image: '/assets/img/life.png'
 description: 'Journey of Japan'
 tags:
